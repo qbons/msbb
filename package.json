@@ -1,27 +1,44 @@
 {
-  "name": "msbb",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Frontity project",
-  "keywords": [
-    "frontity"
-  ],
-  "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
-  },
-  "scripts": {
-    "dev": "frontity dev",
-    "build": "frontity build",
-    "serve": "frontity serve"
-  },
-  "prettier": {},
-  "dependencies": {
-    "frontity": "^1.17.0",
-    "@frontity/core": "^1.14.3",
-    "@frontity/wp-source": "^1.11.5",
-    "@frontity/tiny-router": "^1.4.4",
-    "@frontity/html2react": "^1.7.0",
-    "@frontity/mars-theme": "./packages/mars-theme"
-  }
+	"name": "msbb",
+	"version": "1.0.0",
+	"private": true,
+	"description": "MSBB Theme",
+	"keywords": [
+		"msbb"
+	],
+	"engines": {
+		"node": ">=10.0.0",
+		"npm": ">=6.0.0"
+	},
+	"scripts": {
+		"dev": "frontity dev",
+		"build": "frontity build",
+		"serve": "frontity serve"
+	},
+	"prettier": {
+		"trailingComma": "none",
+		"tabWidth": 8,
+		"semi": true,
+		"singleQuote": true,
+		"useTabs": true
+	},
+	"dependencies": {
+		"@fancyapps/ui": "^4.0.0-beta.0",
+		"@frontity/core": "^1.14.3",
+		"@frontity/html2react": "^1.7.0",
+		"@frontity/tiny-router": "^1.4.4",
+		"@frontity/wp-source": "^1.11.5",
+		"axios": "^0.21.1",
+		"frontity": "^1.17.0",
+		"msbb-theme": "file:packages/msbb-theme",
+		"numeral": "^2.0.6",
+		"react-custom-scroll": "^4.3.0",
+		"react-hot-toast": "^2.1.0",
+		"react-range": "^1.8.11",
+		"react-scroll": "^1.8.3",
+		"react-scroll-trigger": "^0.6.10",
+		"react-select": "^4.3.1",
+		"react-slick": "^0.28.1",
+		"react-slide-toggle": "^0.3.5"
+	}
 }

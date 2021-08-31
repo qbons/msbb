@@ -1,0 +1,29 @@
+
+.form-basic .pass-field b:after{
+        content: '\e8f4';
+}
+.popsubmenu .close-popup:after,
+.popup-layer .close-popup:after{
+        content: '\e5cd';
+}
+.form-basic .pass-field b.merem:after {
+content: '\e8f5';
+}
+.calc a.plus:before {
+        content: '\e145';
+}
+.calc a.min:before {
+        content: '\e15b';
+}
+.dropmenu strong:after, .dropdown i:after, .dropselect strong:after{
+        content: '\e313';
+}
+.dropmenu.active strong:after, .dropselect.clicked strong:after {
+        content: '\e316';
+}
+.accord-item .acc-head:before {
+        content: '\e313';
+}
+.accord-item.expanded .acc-head:before {
+        content: "\e316";
+}

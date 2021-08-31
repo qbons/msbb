@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_1202" width="25.255" height="25.255" viewBox="0 0 25.255 25.255">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Group_1179" transform="translate(2.895 2.526)">
+        <g id="Group_1185">
+            <path id="shopping-cart" fill="#fff" d="M16.145 9.211l1.445-6.358a.734.734 0 0 0-.715-.9H4.867L4.587.587A.734.734 0 0 0 3.868 0H.734A.734.734 0 0 0 0 .734v.489a.734.734 0 0 0 .734.734H2.87l2.147 10.5a1.712 1.712 0 1 0 2.05.262h6.409a1.711 1.711 0 1 0 1.944-.319l.169-.742a.734.734 0 0 0-.715-.9H6.668l-.2-.978h8.961a.734.734 0 0 0 .716-.569z" transform="translate(0 3.886)"/>
+            <path id="Line_20" d="M0 0L4.169 0" class="cls-2" transform="translate(13.439 2.084)"/>
+            <path id="Line_21" d="M0 0L4.169 0" class="cls-2" transform="rotate(90 7.761 7.762)"/>
+        </g>
+    </g>
+    <path id="Rectangle_1409" fill="none" d="M0 0H25.255V25.255H0z"/>
+</svg>

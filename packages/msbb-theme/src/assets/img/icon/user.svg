@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="18.286" viewBox="0 0 16 18.286">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_1050" transform="translate(-1126 -66)">
+        <path id="user" d="M11.2 10.857c-1.025 0-1.518.571-3.2.571s-2.171-.571-3.2-.571a4.8 4.8 0 0 0-4.8 4.8v.914a1.715 1.715 0 0 0 1.714 1.714h12.572A1.715 1.715 0 0 0 16 16.571v-.914a4.8 4.8 0 0 0-4.8-4.8zm3.086 5.714H1.714v-.914A3.091 3.091 0 0 1 4.8 12.571a13.983 13.983 0 0 0 3.2.571 13.849 13.849 0 0 0 3.2-.571 3.091 3.091 0 0 1 3.086 3.086zM8 10.286a5.143 5.143 0 1 0-5.143-5.143A5.144 5.144 0 0 0 8 10.286zm0-8.572a3.429 3.429 0 1 1-3.429 3.429A3.434 3.434 0 0 1 8 1.714z" class="cls-1" transform="translate(1126 66)"/>
+        <circle id="Ellipse_178" cx="4" cy="4" r="4" class="cls-1" transform="translate(1130 67)"/>
+        <ellipse id="Ellipse_179" cx="3" cy="3.5" class="cls-1" rx="3" ry="3.5" transform="translate(1127 77)"/>
+        <ellipse id="Ellipse_180" cx="3" cy="3.5" class="cls-1" rx="3" ry="3.5" transform="translate(1135 77)"/>
+        <ellipse id="Ellipse_181" cx="3" cy="3.5" class="cls-1" rx="3" ry="3.5" transform="rotate(-85 611.032 -574.931)"/>
+    </g>
+</svg>
